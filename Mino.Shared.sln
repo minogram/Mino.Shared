@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Mino.SystemExtensions", "Mino.SystemExtensions\Mino.SystemExtensions.shproj", "{465C29D0-CD7B-43C5-A35E-F22998B1FBBA}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Mino.SystemExtensions\Mino.SystemExtensions.projitems*{465c29d0-cd7b-43c5-a35e-f22998b1fbba}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00A40CDE-075C-4559-BF2D-5909FD8E6299}
+	EndGlobalSection
+EndGlobal
