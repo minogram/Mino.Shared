@@ -1,6 +1,6 @@
 ﻿namespace System.Collections.Generic;
 
-public static class EnumerableExtensions
+internal static class EnumerableExtensions
 {
     /// <summary>
     /// Searches for an element that matches the conditions defined by the specified predicate,
