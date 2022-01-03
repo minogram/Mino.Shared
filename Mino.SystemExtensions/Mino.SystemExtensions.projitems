@@ -16,6 +16,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)System.IO\TempFile.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)System.Linq\LinqExtensions.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)System\ArrayExtensions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)System\EnumEx.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)System\MathEx.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)System\RandomExtensions.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)System\StringExtensions.cs" />
